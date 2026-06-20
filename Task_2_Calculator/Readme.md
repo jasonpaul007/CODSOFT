@@ -1,6 +1,6 @@
-# 🧮 Simple Calculator
+#  Simple Calculator
 
-## 📌 Overview
+## Overview
 
 This is a simple command-line calculator built using Python. The program allows users to perform basic arithmetic operations by entering two numbers and selecting an operation.
 
@@ -13,7 +13,7 @@ The calculator supports:
 
 It also includes error handling for division by zero and invalid operator inputs.
 
-## ✨ Features
+##  Features
 
 - User-friendly command-line interface
 - Performs basic arithmetic calculations
@@ -21,7 +21,7 @@ It also includes error handling for division by zero and invalid operator inputs
 - Validates operator input
 - Displays results instantly
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 
